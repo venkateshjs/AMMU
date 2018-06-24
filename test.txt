@@ -3,4 +3,4 @@ This is a demo file which is created using git command.
 iam modifying it second time and commit committing
 the below command is used to resolve the LF and CRLF warning
 
-	$git[D[D[D [C[Dg[C[Dgit config --global core.autocrlf false
+	$git config --global core.autocrlf false
